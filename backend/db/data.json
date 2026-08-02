@@ -1,0 +1,143 @@
+{
+    "settings": {
+        "pin_hash": null
+    },
+    "users": {
+        "adnan": {
+            "join_date": "2025-11-28",
+            "monthly_data": {
+                "2025-11": {
+                    "income": [
+                        {
+                            "category": "slary",
+                            "amount": 20000.0,
+                            "datetime": "2025-11-28 || 03:19 PM"
+                        }
+                    ],
+                    "expenses": [
+                        {
+                            "amount": 200,
+                            "category": "asdf",
+                            "datetime": "2025-11-28 || 05:39 PM"
+                        }
+                    ],
+                    "lendings": [],
+                    "deductions": {
+                        "total": 0,
+                        "paid": 0,
+                        "remaining": 0
+                    },
+                    "savings": 19800.0,
+                    "income_base": 20000.0,
+                    "deduction_enabled": false
+                },
+                "2025-12": {
+                    "income": [
+                        {
+                            "category": "slary",
+                            "amount": 20000.0,
+                            "datetime": "2025-12-02 || 11:48 AM"
+                        }
+                    ],
+                    "expenses": [
+                        {
+                            "amount": 300,
+                            "category": "ghjhg",
+                            "datetime": "2025-12-03 || 12:06 PM"
+                        },
+                        {
+                            "amount": 300,
+                            "category": "erf",
+                            "datetime": "2025-12-03 || 05:30 PM"
+                        },
+                        {
+                            "amount": 343,
+                            "category": "dfvtr",
+                            "datetime": "2025-12-03 || 05:31 PM"
+                        },
+                        {
+                            "amount": 400,
+                            "category": "dfgfd",
+                            "datetime": "2025-12-03 || 06:16 PM"
+                        },
+                        {
+                            "amount": 234,
+                            "category": "xc d",
+                            "datetime": "2025-12-03 || 06:16 PM"
+                        }
+                    ],
+                    "lendings": [
+                        {
+                            "amount": 200.0,
+                            "to_whom": "name gy",
+                            "reason": "ergf",
+                            "date": "2025-12-02 || 01:13 PM",
+                            "returned": false
+                        }
+                    ],
+                    "deductions": {
+                        "total": 500.0,
+                        "paid": 0,
+                        "remaining": 500.0
+                    },
+                    "savings": 18423.0,
+                    "income_base": 20000.0,
+                    "deduction_enabled": true
+                },
+                "2026-01": {
+                    "income": [
+                        {
+                            "category": "asdfg",
+                            "amount": 180000.0,
+                            "datetime": "2026-01-02 || 06:34 PM"
+                        }
+                    ],
+                    "expenses": [],
+                    "lendings": [],
+                    "deductions": {
+                        "total": 0,
+                        "paid": 0,
+                        "remaining": 0
+                    },
+                    "savings": 180000.0,
+                    "income_base": 180000.0,
+                    "deduction_enabled": false
+                }
+            },
+            "all_time_savings": 38223.0,
+            "last_rollover_month": "2025-12"
+        },
+        "test": {
+            "join_date": "2026-01-08",
+            "monthly_data": {
+                "2026-01": {
+                    "income": [
+                        {
+                            "category": "income",
+                            "amount": 10000.0,
+                            "datetime": "2026-01-08 || 12:13 PM"
+                        }
+                    ],
+                    "expenses": [
+                        {
+                            "amount": 2000,
+                            "category": "test",
+                            "datetime": "2026-01-08 || 12:13 PM"
+                        }
+                    ],
+                    "lendings": [],
+                    "deductions": {
+                        "total": 0,
+                        "paid": 0,
+                        "remaining": 0
+                    },
+                    "savings": 8000.0,
+                    "income_base": 10000.0,
+                    "deduction_enabled": false
+                }
+            },
+            "all_time_savings": 0,
+            "last_rollover_month": null
+        }
+    }
+}
